@@ -1,0 +1,30 @@
+Prompt para la demo copilot for azure
+ 
+listame todas las maquinas virtuales
+listame las maquinas virtuales que no estan encendidas
+	arranca la maquina virtual PruebaDefendersalva
+	desasigna la maquina virtual PruebaDefendersalva
+
+
+listame las maquinas virtuales que no tengan sistema operativo windows. Muestra el nombre de la maquina,la suscripcion en la que se encuentra, el sistema operativo que utiliza y el estado en el que se encuentra
+
+como puedo reducir los costes de la maquina PruebaDefendersalva
+
+muestrame el grupo de recursos con mas consumo en el ultimo mes
+
+¿como puedo hacer mas segura una cuenta de almacenamiento?
+
+necesito crear una nueva maquina virtual en el grupo de recursos "DemoCopilotAzure" llamada "PruebaCopilotAzure". El tamaño de la maquina virtual debe ser "Standard D2s v3 (2 vcpus, 8 GiB memory)", la region debe ser "North Europe". La maquina virtual debe estar conectada la la red virtual llamada "Red-prueba". Tanto el grupo de recursos como la red virtual deben crearse tambien. Puedes crear el script de powwer shell para crear esta maquina virtual, por favor?
+ 
+I need to create a new VM in resource group "DemoMigracion" named "PruebaCopilot". The size for this virtual machine must be "Standard D2s v3 (2 vcpus, 8 GiB memory)", the location must be "North Europe". the virtual machine must be conected to a virtual network named "Red-prueba". That virtual network must be created too.
+Could you create the power shell script to create this virtual machine, please?
+
+Cuales son las diferencias fundamentales entre un Azure SQL Server y una Azure SQL Database?
+
+dime los pasos que tengo que seguir en el portal de Azure para darle permisos de Administrador global a un usuaio
+
+dime los pasos para activar a un usuario la doble autenticacion
+
+cambia el tema del portal de azure a modo oscuro
+
+dime los pasos a seguir en el portal de azure para crear una cuenta de almacenamiento
